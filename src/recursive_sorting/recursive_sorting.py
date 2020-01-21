@@ -22,7 +22,7 @@ def merge(arrA, arrB):
     newArr += arrA[arrA_index:]
     newArr += arrB[arrB_index:]
 
-    return merged_arr
+    return newArr
 
 
 # TO-DO: implement the Merge Sort function below USING RECURSION
